@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32979'
     url: http://www.gutenberg.org/2009/agents/32979
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27869#A-Theodicy-or-Vindication-of-the-Divine-Glory
 gutenberg_issued: '2009-01-22'
 gutenberg_type: Text
 identifiers:
