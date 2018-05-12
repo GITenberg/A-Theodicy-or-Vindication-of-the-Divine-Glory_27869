@@ -1,0 +1,27 @@
+_repo: A-Theodicy-or-Vindication-of-the-Divine-Glory_27869
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bledsoe, Albert Taylor
+    birthdate: 1809
+    deathdate: 1877
+    gutenberg_agent_id: '32979'
+    url: http://www.gutenberg.org/2009/agents/32979
+description: ''
+gutenberg_issued: '2009-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27869'
+  lccn: '31004019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theodicy'
+- !lcc 'BT'
+title: A Theodicy, or, Vindication of the Divine Glory
+url: http://www.gutenberg.org/ebooks/27869
